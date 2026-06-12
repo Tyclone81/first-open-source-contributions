@@ -20,6 +20,7 @@
  - [BusayoDada](https://github.com/busayo-OD)
  - [Cindy Tsetse](https://github.com/tsetseC)
  - [Kabba Joseph Timothy](https://github.com/josephkabba)
+ - [victor Ogero](https://github.com/Tyclone81)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
